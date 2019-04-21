@@ -17,17 +17,18 @@ User can sign up to ask for an api key
     - Daily max requests
     - Key status (non-active, daily, monthly, unlimited)
 
-## Dota 2 Heroes
+## Heroes
 
-
-- Dota2 Heroes
+- Hero
     - id (connected to valve's)
     - name (connected to valve's )
     - localized name (connected to valve's)
     - nicknames (all the ways a hero can be called)
     - Custom image
 
-- Dota Items
+## Items
+
+- Item
     - id (connected to valve's)
     - name (connected to valve's )
     - localized name (connected to valve's)
@@ -35,8 +36,10 @@ User can sign up to ask for an api key
     - Is recipe
     - Cost
     - Custom image
+    
+## Commands
 
-- Dota commands
+- Command
     - Name
     - Description
     - Category
@@ -45,6 +48,6 @@ User can sign up to ask for an api key
     - Arguments
     - Default arguments
 
-- Dota command categories
+- Command Category
     - Name
     - Image
