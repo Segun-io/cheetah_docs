@@ -24,6 +24,18 @@ User can sign up to ask for an api key
     - name (connected to valve's )
     - localized name (connected to valve's)
     - nicknames (all the ways a hero can be called)
+    - Has custom image
+    - Custom image
+
+## Units
+
+- Unit
+    - id (connected to valve's)
+    - name (connected to valve's )
+    - localized name (connected to valve's)
+    - nicknames (all the ways a hero can be called)
+    - Wiki image (connected to liquid images)
+    - Has custom image
     - Custom image
 
 ## Items
@@ -35,6 +47,7 @@ User can sign up to ask for an api key
     - nicknames (all the ways a hero can be called)
     - Is recipe
     - Cost
+    - Has custom image
     - Custom image
     
 ## Commands
